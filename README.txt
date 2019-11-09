@@ -1,1 +1,1 @@
-Codecademy Project - full React app with API
+Full React app with API Connection to Yelp
